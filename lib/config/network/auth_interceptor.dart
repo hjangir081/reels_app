@@ -1,0 +1,1 @@
+// this is a simple auth interceptor that adds the auth token to each request

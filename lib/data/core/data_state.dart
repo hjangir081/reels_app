@@ -1,0 +1,1 @@
+// Used when we want to represent the state of data fetching, which can be loading, success with data, or error.
